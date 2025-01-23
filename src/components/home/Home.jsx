@@ -10,7 +10,7 @@ const Home = () => {
             <div className="home__container container grid">
                 <div className="home__content grid">
                     <Social />
-                    <div className="home__img.jpg"></div>
+                    <div className="home__img.png"></div>
                     <Data />
                 </div>
                 <Scroll />
